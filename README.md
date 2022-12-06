@@ -1,5 +1,6 @@
 ### Hi there 👋
 
 
-🇵🇷 I'm a Linux Enthusiast, Web Developer. I love Artificial Intelligence and Machine Learning. Dog lover. I'm fluent in Spanish and Portuguese, and understand Italian.
-Communication is Key for any Successful Project!
+Wilson Dávalos-Nieves, born in Puerto Rico, is a Linux enthusiast who loves ML, Data Science and Open Source. Wilson has contributed to In-stream Ad standards used by Interactive Advertising Bureau (IAB) and was a former member of the Advertising Club of New York.
+
+He has worked with Amazon, MSN, and Google on ad serving technology and has consulted with top-tier publishers on managing ad operations workflow. Wilson speaks English, Spanish, and Portuguese. In his free time, Wilson wants to learn Esperanto and Italian.
